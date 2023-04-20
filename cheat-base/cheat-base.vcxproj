@@ -298,6 +298,7 @@
     <ClInclude Include="src\cheat-base\events\joins\handlereventjoin.hpp" />
     <ClInclude Include="src\cheat-base\inject\load-library.h" />
     <ClInclude Include="src\cheat-base\inject\manual-map.h" />
+    <ClInclude Include="src\cheat-base\inject\reflective-dll.h" />
     <ClInclude Include="src\cheat-base\ISerializable.h" />
     <ClInclude Include="src\cheat-base\render\backend\dx12-hook.h" />
     <ClInclude Include="src\cheat-base\ResourceLoader.h" />
@@ -368,6 +369,7 @@
     </ClCompile>
     <ClCompile Include="src\cheat-base\inject\load-library.cpp" />
     <ClCompile Include="src\cheat-base\inject\manual-map.cpp" />
+    <ClCompile Include="src\cheat-base\inject\reflective-dll.cpp" />
     <ClCompile Include="src\cheat-base\render\backend\dx12-hook.cpp" />
     <ClCompile Include="src\cheat-base\ResourceLoader.cpp" />
     <ClCompile Include="src\cheat-base\Hotkey.cpp" />
